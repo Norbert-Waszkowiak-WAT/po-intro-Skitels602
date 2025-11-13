@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+
+int main(){
+    Point p1;
+    p1.x=5;
+    p1.y=10;
+    p1.print();
+
+    return 0;
+}
